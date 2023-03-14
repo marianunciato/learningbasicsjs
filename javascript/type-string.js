@@ -1,10 +1,10 @@
 const texto1 = "Olá, mundo!";
-const texto2 = 'Olá, mundo!';
-const senha = 'senhaSuperSegura12345!';
-const stringDeNumeros = '34567';
+const texto2 = "Olá, mundo!";
+const senha = "senhaSuperSegura456";
+const StringDeNumeros = "34567";
 
 const citacao = "Meu nome é ";
-const meuNome = "Duda";
+const meuNome = "Leonardo";
 
 // concatenação (+)
 
